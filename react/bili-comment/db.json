@@ -1,0 +1,37 @@
+{
+    "list": [
+        {
+            "rpid": 3,
+            "user": {
+                "uid": "13258165",
+                "avatar": "./image.png",
+                "uname": "周杰伦"
+            },
+            "content": "adfawesfd",
+            "ctime": "2024-10-14 13:12:12",
+            "like": 16
+        },
+        {
+            "rpid": 2,
+            "user": {
+                "uid": "30009257",
+                "avatar": "./image.png",
+                "uname": "前端"
+            },
+            "content": "adfawesfd",
+            "ctime": "2024-10-16 13:12:12",
+            "like": 11
+        },
+        {
+            "rpid": 1,
+            "user": {
+                "uid": "13258165",
+                "avatar": "./image.png",
+                "uname": "周杰伦"
+            },
+            "content": "adfawesfd",
+            "ctime": "2024-10-16 13:12:12",
+            "like": 11
+        }
+    ]
+}
